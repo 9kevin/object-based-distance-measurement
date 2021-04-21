@@ -1,0 +1,8 @@
+Flask==1.1.2
+tensorflow==1.14.0
+opencv-python==4.5.1.4
+pandas==1.0.1
+protobuf==3.13.0
+tf-slim==1.1.0
+tensorflow-object-detection-api==0.1.1
+numpy==1.18.1
