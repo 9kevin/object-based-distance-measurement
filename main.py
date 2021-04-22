@@ -10,7 +10,6 @@ import os
 import six.moves.urllib as urllib
 import tarfile
 import tensorflow as tf
-import cv2
 
 # Importing modules of the object detection
 from object_detection.utils import ops as utils_ops
